@@ -29,6 +29,7 @@ Here we can keep track of what mods has been added and what version a contributo
 | [AdventureZ](https://modrinth.com/mod/adventurez) | 1.4.20 | Fully Added |
 | [The Aether](https://modrinth.com/mod/aether) | | Partial Support |
 | [Aether: Lost Content Addon](https://modrinth.com/mod/aether-lost-content) | | Miniscule |
+| [Aether's Delight](https://modrinth.com/mod/the-aethers-delight) | 0.1.4 | Miniscule |
 | [The Aether: Redux](https://modrinth.com/mod/the-aether-redux) | | Partial Support |
 | [Alex's Caves](https://modrinth.com/mod/alexs-caves) | | Fully Added |
 | [All The Tweaks](https://www.curseforge.com/minecraft/mc-mods/all-the-tweaks) | | Fully Added |
@@ -66,6 +67,7 @@ Here we can keep track of what mods has been added and what version a contributo
 | [Bigger Reactors](https://www.curseforge.com/minecraft/mc-mods/biggerreactors) | | Fully Added |
 | [Biome Makeover](https://modrinth.com/mod/biome-makeover) | | Fully Added |
 | [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty) | 21.1.0.7 | Fully Added |
+| [The Block Box](https://modrinth.com/mod/the-block-box) | 0.1.1 | Partial Support | # Haven't done the palisades, seats, or the stone bricks
 | [Blockcraftery](https://www.curseforge.com/minecraft/mc-mods/blockcraftery) | 1.2.0 | Fully Added | # Another copycat mod. Can't do much but put ID's in no properties
 | [Blockus](https://modrinth.com/mod/blockus) | 2.7.21 | Fully Added |
 | [Blood Magic](https://modrinth.com/mod/blood-magic) | | Partial Support |
@@ -96,6 +98,7 @@ Here we can keep track of what mods has been added and what version a contributo
 | [Clockwork](https://modrinth.com/mod/create-clockwork) | | Miniscule |
 | [Cobblemon](https://modrinth.com/mod/cobblemon) | | Partial Support | # Someone should see if the entities look good
 | [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) | 1.4.1.3 | Fully Added |
+| [Connected Glass](https://modrinth.com/mod/connected-glass) | | Fully Added |
 | [Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory) | 1.3.4 | Miniscule |
 | [Corn Delight](https://modrinth.com/mod/corn-delight) | | In Testing | # Corn plants are 2 blocks tall, current blocks.properties only has one entry!
 | [Countered's Terrain Slabs](https://modrinth.com/mod/countereds-terrain-slabs) | 1.3.0 | Fully Added |
@@ -156,6 +159,7 @@ Here we can keep track of what mods has been added and what version a contributo
 | eidolon | | Miniscule / Unknown | # Unsure of which fork was used to add support
 | [EldritchEnd](https://www.curseforge.com/minecraft/mc-mods/eldritch-end) | 0.3.2 | Miniscule | #added ore emissive to etyr ore
 | [Enchanting Plus](https://www.curseforge.com/minecraft/mc-mods/enchanting-plus) | 5.0.0 | Fully Added |
+| [End's Phantasm](https://modrinth.com/mod/ends-phantasm) | 1.0.3 | Miniscule |
 | [End Remastered](https://modrinth.com/mod/endrem) | 5.2.4 | Fully Added | # Added all eye items.
 | [Ender IO](https://modrinth.com/mod/enderio) | | Partial Support |
 | [Enhanced Celestials](https://modrinth.com/mod/enhanced-celestials) | 5.0.2.3 | Fully Added |
@@ -224,6 +228,7 @@ Here we can keep track of what mods has been added and what version a contributo
 | Iron Furnaces | | Unknown | # Not sure what version of this mod was used
 | [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion) | 2.3.2 | Partial Support |
 | [JDK's Mob Grinding Utilities](https://modrinth.com/mod/jdk-mgu) | | Miniscule |
+| [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) | 2.65 | Miniscule |
 | [LevelZ](https://modrinth.com/mod/levelz) | 1.4.13 | Fully Added |
 | [Little Tiles](https://modrinth.com/mod/littletiles) | 1.6.0-pre159 | Fully Added | # Has issues with ACL
 | [Lootr](https://modrinth.com/mod/lootr) | 0.7.35.85 | Fully Added |
